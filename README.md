@@ -1,4 +1,4 @@
-# Requesitos para executar o projeto:
+# Requisitos para executar o projeto:
 
 - PostgreSQL.
 - PHP 8.
